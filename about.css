@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif; /* Adjust font if needed */
+    background-color: #F5F5F5; /* Light gray background */
+    }
+    
+    .container {
+    max-width: 800px; /* Adjust width if needed */
+    margin: 0 auto;
+    padding: 20px;
+    }
+    
+    h2 {
+    color: #333; /* Dark gray heading color */
+    font-size: 24px;
+    margin-bottom: 10px;
+    }
+    
+    p {
+    color: #666; /* Lighter gray paragraph color */
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    }
